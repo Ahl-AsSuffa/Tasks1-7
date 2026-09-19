@@ -38,8 +38,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-cd <НАЗВАНИЕ_РЕПОЗИТОРИЯ>
+git clone https://github.com/Ahl-AsSuffa/Tasks1-7
 ```
 
 ### 2. Запуск
